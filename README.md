@@ -5,5 +5,7 @@
 - Velog
 - 1. Tensors (Velog) https://velog.io/@lyhthy6/AI-PyTorch-1-Tensors
 - 2. Linear Regression (Velog) https://velog.io/@lyhthy6/AI-PyTorch-2-Linear-Regression
+- 3. Multivariable Linear regression (Velog) https://velog.io/@lyhthy6/AI-PyTorch-3-Multivariable-Linear-Regression
 # 진행상황(Process)
 - Linear Regression & Autograd (2022.06.22)
+- Multivariable Linear regression (2022.06.27)
