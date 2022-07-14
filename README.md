@@ -12,6 +12,7 @@
 6. Softmax Regression (Velog) https://velog.io/@lyhthy6/AI-PyTorch-6-Softmax-Regression
 7. Aritificial Neural Network (Velog) https://velog.io/@lyhthy6/AI-PyTorch-7-Aritificial-Neural-Network
 8. Convolutional Neural Network (Velog) https://velog.io/@lyhthy6/AI-PyTorch-8-Convolutional-Neural-Network
+9. Text Pre-Processing NLP (Velog) https://velog.io/@lyhthy6/AI-PyTorch-9-Text-Pre-Processing-NLP
 
 # 진행상황(Process)
 - Linear Regression & Autograd (2022.06.22)
@@ -21,3 +22,4 @@
 - Softmax Regression (2022.06.29)
 - Aritificial Neural Network (2022.06.30)
 - Convolutional Neural Network (2022.07.05)
+- Text Pre-Processing NLP (2022.07.14)
