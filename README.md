@@ -13,6 +13,7 @@
 7. Aritificial Neural Network (Velog) https://velog.io/@lyhthy6/AI-PyTorch-7-Aritificial-Neural-Network
 8. Convolutional Neural Network (Velog) https://velog.io/@lyhthy6/AI-PyTorch-8-Convolutional-Neural-Network
 9. Text Pre-Processing NLP (Velog) https://velog.io/@lyhthy6/AI-PyTorch-9-Text-Pre-Processing-NLP
+10. Word Representation (Velog) https://velog.io/@lyhthy6/AI-PyTorch-10-Word-Representation
 
 # 진행상황(Process)
 - Linear Regression & Autograd (2022.06.22)
@@ -23,3 +24,4 @@
 - Aritificial Neural Network (2022.06.30)
 - Convolutional Neural Network (2022.07.05)
 - Text Pre-Processing NLP (2022.07.14)
+- Word Representation (2022.07.15)
